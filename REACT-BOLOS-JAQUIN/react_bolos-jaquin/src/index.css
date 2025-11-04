@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+    font-family: "Bellota" , system-ui;
+}
+
+:root{
+    --corBacKground:#FFF6E8;
+    --corPrincipal:#FFD188;
+    --corFontClara:#FFFFFF;
+    --corFontEscura:#000000;
+    --alturaRodape:60px;
+    --fontLogo:"julius sans one" , sans-serif;
+    --conCompletar: "Bellota" , system-ui;
+}
+
+body{
+    background-color: var(--corBacKground);
+}
